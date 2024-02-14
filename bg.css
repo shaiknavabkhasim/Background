@@ -1,0 +1,11 @@
+P,h1{
+    color:rgb(95, 11, 11);
+}
+form{
+    color:white;
+    background-color: rgb(236, 245, 185);
+    background-image: url(./bg.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
